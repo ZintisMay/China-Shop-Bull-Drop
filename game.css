@@ -1,5 +1,13 @@
+body {
+  margin: 0;
+}
 #target {
   outline: 3px solid black;
+  margin: 30px;
+}
+#cardGrid {
+  outline: 3px solid black;
+  margin: 30px;
 }
 .row {
 }
